@@ -172,24 +172,12 @@ Current focus areas:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://x.com/shadow07dev" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://gitlab.com/AbraraliS" target="_blank">
+<a href="https://gitlab.com/masisokatali" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@abraralis7" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="mailto:abrarali.sunasara28@gmail.com" target="_blank">
+<a href="mailto:masisaukatali13@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://abrarali.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
