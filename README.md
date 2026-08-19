@@ -196,12 +196,10 @@ Current focus areas:
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&" />
-</div>
+
 
 ---
-
+## 🐍 My GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
@@ -214,4 +212,4 @@ Current focus areas:
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt&fontColor=FFFFFF" />
 </div>
 
-## 🐍 My GitHub Contribution Snake
+
