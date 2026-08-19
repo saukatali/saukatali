@@ -1,48 +1,226 @@
-# 👋 Hi, I'm Masi Saukatali
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt&fontColor=FFFFFF" />
+</div>
 
-### 🚀 MCA Student | Java | Python | React | Full Stack Developer
+<h1 align="center">Saukatali Masi</h1>
 
-I'm passionate about building projects, learning new technologies,
-and improving my development skills every day.
-
----
-
-## 🐍 My GitHub Contribution Snake
+<h3 align="center">
+AI Engineer • Full Stack Developer • Backend Architect
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+Building scalable AI-powered platforms, modern SaaS systems, automation workflows, and production-grade digital products.
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mysql,git,github,html,css,vscode" />
-</p>
+I specialize in building scalable backend systems, AI-powered applications, automation workflows, and modern digital platforms. My work combines software engineering, system architecture, and product-focused development to create reliable real-world solutions.
 
----
+I work across full stack development with expertise in backend engineering, distributed systems, AI integrations, modern frontend frameworks, and cloud-native tooling. I actively build production-grade platforms focused on scalability, performance, and intelligent automation.
 
-## 📊 GitHub Stats
+Current focus areas:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+- AI-integrated applications
+- SaaS architecture
+- Backend systems & APIs
+- Automation workflows
+- Modern commerce platforms
+- Scalable infrastructure
+- Product engineering
 
 ---
 
-## 🔥 Contribution Graph
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
+### Languages
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c" />
+</div>
 
 ---
 
-### 💡 "Code. Learn. Build. Repeat."
+### Frontend
 
-⭐ Thanks for visiting my profile!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" />
+</div>
+
+---
+
+### Backend & APIs
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=express" height="42" alt="express" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="graphql" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=hibernate" height="42" alt="hibernate" />
+</div>
+
+---
+
+### Databases & Infrastructure
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb" />
+  <img width="10" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="supabase" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=redis" height="42" alt="redis" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="kubernetes" />
+</div>
+
+---
+
+### Tools & Platforms
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="gitlab" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=intellij" height="42" alt="intellij" />
+</div>
+
+---
+
+## Current Focus
+
+- AI-powered SaaS systems
+- Intelligent automation workflows
+- Scalable backend architecture
+- Modern commerce infrastructure
+- Production-grade deployments
+- Developer tooling & platform engineering
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AbraraliS&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AbraraliS&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/abraralis/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/shadow07dev" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://gitlab.com/AbraraliS" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@abraralis7" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:abrarali.sunasara28@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://abrarali.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbraraliS.AbraraliS&" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbraraliS/AbraraliS/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt&fontColor=FFFFFF" />
+</div>
