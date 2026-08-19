@@ -168,7 +168,7 @@ Current focus areas:
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/abraralis/" target="_blank">
+<a href="https://www.linkedin.com/in/saukatali-masi-412758264/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
