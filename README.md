@@ -158,12 +158,9 @@ Current focus areas:
 ---
 
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AbraraliS&theme=tokyonight&hide_border=true"
-  height="180"
-/>
 
-</div>
+
+
 
 ---
 
